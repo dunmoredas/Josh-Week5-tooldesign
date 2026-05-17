@@ -3,6 +3,11 @@
 ## Overview
 A comprehensive text analysis tool designed for AI agents to assess content quality, readability, and vocabulary usage. This tool is particularly useful for business communication analysis, content optimization, and ensuring appropriate reading levels for target audiences.
 
+## How to Run
+``` python
+python demo.py
+```
+
 ## What It Does
 The tool analyzes input text and returns three categories of metrics:
 - **Basic Statistics**: Word count, sentence count, character counts, average word/sentence length
